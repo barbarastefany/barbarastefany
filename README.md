@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**barbarastefany/barbarastefany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Administração e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Adoro gatos, jogar online, aprender sobre tecnologia e assistir alguns animes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalhei por muitos anos no mercado de jogos online e em maio de 2024 comecei a minha transição de carreira para a área de TI que é algo que sonho há muitos anos.
+
+---
+### Objetivos 
+- Dominar Java
+- Aprender uma segunda linguagem de programação (provavelmente Python para mexer com AWS)
+  
+---
+### O meu setup
+- Mobo: Gigabyte B550 DS3H
+- RAM: XPG Gammix D30 3200mhz (2x8)
+- GPU: RTX 4060 PNY VERTO Dual Fan
+- CPU: Ryzen 7 5700X
+- Cooler: GAMMAXX 400V2 Red
+- FANs: Rise Mode Smart, RGB, 120mm x3 / Fan Rise Mode, 120mm, Preto x3
+- Fonte: Super Flower LEADEX III 650W, 80 Plus Gold
+- Gabinete: Redragon WheelJack Black
+- Keyboard: Redragon Mitra RGB (red switch)
+- Mouse: Logitech G305
+- Headset: Havit HV-H2002d
+- Monitor: Bluecase BM245GW 24'' 144hz / Samsung 17''
+- Suporte: F160N
+- Cadeira: MaxRacer Skilled Red
+
+
