@@ -4,7 +4,7 @@ Sou formada em Administração e atualmente estou cursando Análise e Desenvolvi
 
 Adoro gatos, jogar online, aprender sobre tecnologia e assistir alguns animes.
 
-Trabalhei por muitos anos no mercado de jogos online e em maio de 2024 comecei a minha transição de carreira para a área de TI que é algo que sonho há muitos anos.
+Apaixonada por tecnologia desde sempre, busco por desenvolvimento e consolidação na carreira de desenvolvedora Java.
 
 ---
 ### Objetivos 
