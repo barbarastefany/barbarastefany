@@ -24,7 +24,7 @@ Apaixonada por tecnologia desde sempre, busco por desenvolvimento e consolida√ß√
 - Keyboard: Redragon Mitra RGB (red switch)
 - Mouse: Logitech G305
 - Headset: Havit HV-H2002d
-- Monitor: Bluecase BM245GW 24'' 144hz / Samsung 17''
+- Monitor: Bluecase Samgung G30 24'' 144hz / BM245GW 24'' 144hz
 - Suporte: F160N
 - Cadeira: MaxRacer Skilled Red
 
