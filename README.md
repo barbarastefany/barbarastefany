@@ -1,31 +1,42 @@
-## Olá! 👋
+# Olá!👋
 
-Sou formada em Administração e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Me chamo Barbara, sou formada em administração e atualmente curso análise e desenvolvimento de sistemas.</p>
 
-Adoro gatos, jogar online, aprender sobre tecnologia e assistir alguns animes.
+## Sobre mim</h2>
 
-Apaixonada por tecnologia desde sempre, busco por desenvolvimento e consolidação na carreira de desenvolvedora Java.
+📚 Estou estudando Java e suas tecnologias.<br>
+🎯 Busco por desenvolvimento e consolidação na carreira de desenvolvedora Java.<br>
+🎮 Adoro jogos online, especialmente FPS e survival.
 
----
-### Objetivos 
-- Dominar Java
-- Aprender uma segunda linguagem de programação (provavelmente Python para mexer com AWS)
-  
----
-### O meu setup
-- Mobo: Gigabyte B550 DS3H
-- RAM: XPG Gammix D30 3200mhz (2x8)
-- GPU: RTX 4060 PNY VERTO Dual Fan
-- CPU: Ryzen 7 5700X
-- Cooler: GAMMAXX 400V2 Red
-- FANs: Rise Mode Smart, RGB, 120mm x3 / Fan Rise Mode, 120mm, Preto x3
-- Fonte: Super Flower LEADEX III 650W, 80 Plus Gold
-- Gabinete: Redragon WheelJack Black
-- Keyboard: Redragon Mitra RGB (red switch)
-- Mouse: Logitech G305
-- Headset: Havit HV-H2002d
-- Monitor: Bluecase Samgung G30 24'' 144hz / BM245GW 24'' 144hz
-- Suporte: F160N
-- Cadeira: MaxRacer Skilled Red
+###
 
+<h2 align="left">Contato</h2>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-stefany-carvalho)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](barbara.stefany@outlook.com.br)
+
+###
+
+<h2 align="left">Linguagem e ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="45" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=barbarastefany&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
