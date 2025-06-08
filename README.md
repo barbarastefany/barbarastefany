@@ -5,7 +5,7 @@ Me chamo Barbara, sou formada em administração e atualmente curso análise e d
 ## Sobre mim</h2>
 
 📚 Estou estudando Java e suas tecnologias.<br>
-🎯 Busco por desenvolvimento e consolidação na carreira de desenvolvedora Java.<br>
+🎯 Sou Software Developer Junior.<br>
 🎮 Adoro jogos online, especialmente FPS e survival.
 
 ###
